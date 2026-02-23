@@ -40,7 +40,7 @@
   <a href="https://linkedin.com/in/rindraniaina-rasolofondrasoa-424161215/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="fb.com/rindraniaina.rasolofondrasoa" target="_blank">
+  <a href="https://fb.com/rindraniaina.rasolofondrasoa" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="mailto:rindraniainarasolofondrasoa17@gmail.com">
